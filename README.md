@@ -14,3 +14,6 @@ https://github.com/aanilkumarmh-dot/java_mini_project_Hospital/blob/main/Hospita
 
 
 https://github.com/aanilkumarmh-dot/java_mini_project_Hospital/blob/main/HospitalWebApp/build/classes/com/upadatepatient.jpg
+
+
+https://github.com/aanilkumarmh-dot/java_mini_project_Hospital/blob/main/HospitalWebApp/build/classes/com/viewpatient.jpg
